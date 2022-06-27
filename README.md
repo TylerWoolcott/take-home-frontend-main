@@ -9,7 +9,7 @@ Refer to `INSTRUCTIONS.md` for more details.
 To install locally you will need to have node installed on your computer.
 
 ```bash
-git clone https://github.com/TylerWoolcott/viewport-grid.git
+git clone https://github.com/TylerWoolcott/take-home-frontend-main.git
 yarn install
 yarn start
 ```

@@ -18,7 +18,7 @@ Open `http://localhost:3000` in a browser.
 
 ### Video of app in action
 
-https://www.loom.com/share/79eca33135454738842282ce4b2d9680
+https://www.loom.com/share/e8b857aa11c74dddac9fce53ad50ae33
 
 ### Development tools
 
